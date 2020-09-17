@@ -1,4 +1,4 @@
 # Hello World!
-:smiley: Very first repository! :smiley:
+:smiley: **Very first repository!** :smiley:
 
-Repository created during an online class. :pencil2: 
+**Repository created during an online class.** :pencil2: 
